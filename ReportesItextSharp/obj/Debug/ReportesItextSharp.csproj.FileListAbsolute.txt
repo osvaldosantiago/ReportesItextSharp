@@ -1,0 +1,12 @@
+c:\users\sgomyose\documents\visual studio 2013\Projects\ReportesItextSharp\ReportesItextSharp\bin\Debug\ReportesItextSharp.exe.config
+c:\users\sgomyose\documents\visual studio 2013\Projects\ReportesItextSharp\ReportesItextSharp\bin\Debug\ReportesItextSharp.exe
+c:\users\sgomyose\documents\visual studio 2013\Projects\ReportesItextSharp\ReportesItextSharp\bin\Debug\ReportesItextSharp.pdb
+c:\users\sgomyose\documents\visual studio 2013\Projects\ReportesItextSharp\ReportesItextSharp\obj\Debug\ReportesItextSharp.csprojResolveAssemblyReference.cache
+c:\users\sgomyose\documents\visual studio 2013\Projects\ReportesItextSharp\ReportesItextSharp\obj\Debug\ReportesItextSharp.Form1.resources
+c:\users\sgomyose\documents\visual studio 2013\Projects\ReportesItextSharp\ReportesItextSharp\obj\Debug\ReportesItextSharp.Properties.Resources.resources
+c:\users\sgomyose\documents\visual studio 2013\Projects\ReportesItextSharp\ReportesItextSharp\obj\Debug\ReportesItextSharp.csproj.GenerateResource.Cache
+c:\users\sgomyose\documents\visual studio 2013\Projects\ReportesItextSharp\ReportesItextSharp\obj\Debug\ReportesItextSharp.exe
+c:\users\sgomyose\documents\visual studio 2013\Projects\ReportesItextSharp\ReportesItextSharp\obj\Debug\ReportesItextSharp.pdb
+c:\users\sgomyose\documents\visual studio 2013\Projects\ReportesItextSharp\ReportesItextSharp\bin\Debug\MySql.Data.dll
+c:\users\sgomyose\documents\visual studio 2013\Projects\ReportesItextSharp\ReportesItextSharp\bin\Debug\itextsharp.dll
+c:\users\sgomyose\documents\visual studio 2013\Projects\ReportesItextSharp\ReportesItextSharp\bin\Debug\itextsharp.xml
